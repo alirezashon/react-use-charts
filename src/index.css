@@ -1,0 +1,42 @@
+
+  @font-face{
+	font-family: Tanha;
+	src: url("./font/Tanha.ttf");
+}
+  body {
+    font-family: Tanha ;
+  }
+
+  /*nav*/
+  .navigation{background-color: #a5cd39;  font-weight: bold; direction: rtl;
+  }
+  .top-nav-items{background-color: #fff; margin-left: 17%; text-align: center; font-size: 22px;
+color: #499b01;
+}
+
+.logo{width: 177px; height: 77px; margin-left: 1%;
+} 
+/*end-of-nav*/
+
+
+  /*left-side*/
+.top-profile-photo{ width: 99px;  border: solid 9px #a5cd39;  border-inline-color: #499b49;  
+  border-inline-style:double;  
+}
+
+.profile-photo{width: 77px; height: 66px; border-radius: 50%;
+} 
+.rank-number{ width: 40px;  height: 40px; border-radius:50%; text-align: center;
+  color: #fff;   font-weight: bold; align-self: center; 
+}
+
+
+  /*end -of-left-side*/
+
+
+
+
+.he{ color: #0dcbe4;
+    color: #a5cd39 ;
+    color: #f3c80b ;
+    color: rgba(12, 189, 115, 0.5);}
