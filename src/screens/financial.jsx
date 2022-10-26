@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
-export default function chat(){ 
+export default function Financial(){ 
     return( 
-      <h1>گفتگو</h1>
+      <h1>مالی</h1>
     );
 }
